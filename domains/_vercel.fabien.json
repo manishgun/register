@@ -5,6 +5,6 @@
         "discord": "fabien_huet"
     },
     "record": {
-        "TXT": "vc-domain-verify=fabien.is.a.dev,65d8329499551546ef22"
+        "A": ["76.76.21.21"]
     }
 }
